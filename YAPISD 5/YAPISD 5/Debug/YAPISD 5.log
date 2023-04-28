@@ -1,0 +1,4 @@
+﻿  YAPISD 5.cpp
+C:\Users\serg\source\repos\YAPISD 5\YAPISD 5\YAPISD 5.cpp(169): warning C4715: Time::time_format: значение возвращается не при всех путях выполнения
+C:\Users\serg\source\repos\YAPISD 5\YAPISD 5\YAPISD 5.cpp(63): warning C4172: возвращение адреса локальной или временной переменной : other_format
+  YAPISD 5.vcxproj -> C:\Users\serg\source\repos\YAPISD 5\Debug\YAPISD 5.exe
